@@ -1,7 +1,7 @@
 name: Feature request
 description: Suggest an idea for this project
-title:"<title>"
-labels:[]
+title: "<title>"
+labels: []
 body:
 - type: textarea
   attributes:
