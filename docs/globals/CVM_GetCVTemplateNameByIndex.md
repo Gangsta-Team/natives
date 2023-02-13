@@ -8,17 +8,8 @@ string CVM_GetCVTemplateNameByIndex(string cvTemplateRegister, int index)
 CV Templates:
 - character
 - boat
-- car (?)
+- car
 
-Note:
-"car" template is being used in scripts:
-- cement\scriptc\gui\ause\debug.cso
-- cement\scriptc\missions\default_functions_design.cso
-
-There is a third CV Template but that has been lost...
-While shipping the release.
-
-And if none of that matches a default template return value is getting returned.
 ```
 ## Usage examples
 
