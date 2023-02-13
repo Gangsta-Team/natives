@@ -48,3 +48,5 @@ if($delivery_prop_last){
 	Echo("DBG", "StatePropObject: DELIVERY_PROP_LAST new object has been created!");
 }	
 ```
+![image](https://user-images.githubusercontent.com/44430306/218584682-0743d175-d3a7-4dea-a9ff-82dc04af0c25.png)
+
