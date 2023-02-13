@@ -21,4 +21,12 @@ while ($idx < 306)
 	Echo("DBG", "Template index: " @ $idx @ " | Template name: " @ CVM_GetCVTemplateNameByIndex("character", $idx));
 	$idx = $idx + 1;
 }
+
+// Print in the console the whole list of car templates.
+$idx = 0;
+while ($idx < 112)
+{
+	Echo("DBG", "Template index: " @ $idx @ " | Template name: " @ CVM_GetCVTemplateNameByIndex("car", $idx));
+	$idx = $idx + 1;
+}
 ```
